@@ -78,4 +78,4 @@ The system uses the pre-trained `facebook/bart-large-cnn` model from Hugging Fac
 
 # Demo Video
 
-YouTube Demo:
+YouTube Demo: https://youtu.be/5gE61xNXGu4?si=Ect6TCKxhlUbp9o8
